@@ -38,7 +38,7 @@ Now that we had an accurate model and the required testing and training data, th
 From there, the process was standard. We created a for loop to go through each artist’s song lyrics and identify how many of them contained sexually explicit themes. At the end of processing the songs for the respective artist, the program calculated the percentage of songs from that artist that were sexually explicit and saved them to a text file. This cycle repeated until we had quantified the content of all the songs made by all the female rappers that we identified. We ran that program 3 times, once for each training set that we made.
 
 ## Limitations/Flaws
-We’re high schoolers, there’s bound to be mistakes within our data analysis.
-The definition of “sexually explicit” for most of the population is quite similar, but some people may classify mere references as such, so the training data is relatively subjective.
-We didn’t want our own knowledge of rappers to influence the list and thus the overall data, so we used the Wikipedia and Genius list of female rappers to scan through. These were the most objective lists of artists possible because they were made through multiple different contributors.
+1. We’re high schoolers, there’s bound to be mistakes within our data analysis.
+2. The definition of “sexually explicit” for most of the population is quite similar, but some people may classify mere references as such, so the training data is relatively subjective.
+3. We didn’t want our own knowledge of rappers to influence the list and thus the overall data, so we used the Wikipedia and Genius list of female rappers to scan through. These were the most objective lists of artists possible because they were made through multiple different contributors.
 
