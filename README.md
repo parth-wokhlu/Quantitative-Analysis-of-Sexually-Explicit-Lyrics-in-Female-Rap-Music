@@ -42,3 +42,18 @@ From there, the process was standard. We created a for loop to go through each a
 2. The definition of “sexually explicit” for most of the population is quite similar, but some people may classify mere references as such, so the training data is relatively subjective.
 3. We didn’t want our own knowledge of rappers to influence the list and thus the overall data, so we used the Wikipedia and Genius list of female rappers to scan through. These were the most objective lists of artists possible because they were made through multiple different contributors.
 
+# III. Results
+Compiling the average of three trials, 28.01% of rap songs written by female artists were found as sexually explicit in nature. We found that the amount of these types of songs varied drastically artist-to-artist, and can be visualized in the scatterplot below.
+
+We’ve open sourced the excel sheet with the full data above titled “Rap Analysis Results.” Overall, it’s clear that a large majority of female rap songs don’t discuss themes of nudity and sex. We aren’t comparing it to the percentage of men’s rap about sexually explicit music because the hypothesis we are testing is whether or not a majority of women rappers 
+
+# IV. Conclusion and Implications
+Utilizing a natural language processing neural network model, we conclude that, in contrast to popular belief, sexually explicit themes are not the main focus of rap music made by women. 
+
+This has two key implications. First, it means that the general population will characterize women as “sexualizing/objectifying” themselves given any chance to do so. A majority of people have probably resorted to this stereotype that “women rappers only talk about sex” to feed their preconceived notions without having to actually explore an artist's discography. This is most likely rooted in society’s inherently patriarchal structure, but should be more researched. 
+
+The second implication of this study is that the consumption of women’s rap music tends to be the songs centered around sexually explicit themes. Labels (and artists) most likely push and advertise these songs the most as they are more likely to go viral/become popular. This could be due to their attention-grabbing explicit lyrics and/or a result of the first implication of enforcing sexist stereotypes.
+
+However, this does not mean that women should not make music about sex or their bodies or that making said music is bad. Indeed, several [articles](https://thehoya.com/women-in-hip-hop-navigate-objectification-owning-their-sexual-power/) and studies have discussed self-sexualization in rap music as a way to combat hyper-masculinity and demonstrate self love in the face of the unfair beauty standards women of color often have to live up to. This report was simply meant to see the extent of validity a certain stereotype had and in no way was meant to say that music about sex is an excuse to be blatantly mysognist. 
+
+Overall, we encourage anyone who believes that women “only rap about sex” to truly explore their catalogs and to stop characterizing a whole genre of music off of a minority of songs. 
