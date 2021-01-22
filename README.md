@@ -45,6 +45,10 @@ From there, the process was standard. We created a for loop to go through each a
 # III. Results
 Compiling the average of three trials, 28.01% of rap songs written by female artists were found as sexually explicit in nature. We found that the amount of these types of songs varied drastically artist-to-artist, and can be visualized in the scatterplot below.
 
+<p align="center">
+  <img src="https://github.com/parth-wokhlu/Quantitative-Analysis-of-Sexually-Explicit-Lyrics-in-Female-Rap-Music/blob/main/femrapGraph.PNG">
+</p>
+
 We’ve open sourced the excel sheet with the full data above titled “Rap Analysis Results.” Overall, it’s clear that a large majority of female rap songs don’t discuss themes of nudity and sex. We aren’t comparing it to the percentage of men’s rap about sexually explicit music because the hypothesis we are testing is whether or not a majority of women rappers 
 
 # IV. Conclusion and Implications
