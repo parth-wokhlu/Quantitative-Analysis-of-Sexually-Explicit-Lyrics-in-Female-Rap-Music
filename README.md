@@ -10,7 +10,7 @@ Mihir Nakra: nakramihir@gmail.com
 
 After spending the past year delving into rap music as a whole, the wide variety of topics/subjects discussed became extremely intriguing to us. Specifically, with the rise of rappers like Megan Thee Stallion and Cardi B, we noticed that there was a general stereotype that female rappers only rapped about sexually explicit material. Thus, we decided to use ML to find whether or not this consensus was legitimate.
 
-Note: As non-black people (and as men) we're aware that we're guests in the culture of hip-hop, and in no means are trying to push a certain narrative on non-conscious or sexually explicit music (we absolutely love artists like Nicki Minaj and Missy Elliot). This was simply a project done out of interest in a genre of music that we love. If we've used any ignorant phrases or remarks, please don't hesistate to email us and we'll take care of it immediately. 
+Note: As non-black people (and as men) we're aware that we're guests in the culture of hip-hop, and in no means are trying to push a certain narrative on non-conscious or sexually explicit music (we absolutely love artists like Nicki Minaj and Missy Elliot). This was simply a project done out of interest in a genre of music that we love. If we've used any ignorant phrases or remarks, please don't hesitate to email us and we'll take care of it immediately. 
 
 # II. Methodology
 All the code for this project is open sourced (not all of it is written completely by us, so please give the original authors their due credit). 
